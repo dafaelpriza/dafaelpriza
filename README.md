@@ -1,5 +1,8 @@
 ## Hi there, I'm Dafa Elpriza 👋
 
+- 🔭 I’m currently Data Science Student @ ITERA
+
+
 <!--
 **dafaelpriza/dafaelpriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     
